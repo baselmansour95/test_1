@@ -8,7 +8,7 @@ import (
 )
 
 type TestT struct {
-	Id1, Id2 int
+	Id1, Id2, Id3 int
 }
 
 func main() {
